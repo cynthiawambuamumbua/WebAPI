@@ -1,0 +1,318 @@
+@media (max-width: 600px) {
+    body {
+      font-size: 7px;
+      background-color: whitesmoke;
+    }
+    .icons {
+      margin-left: 5%;
+    
+      margin-top: 1%;
+      font-size: 10%;
+      color: white;
+    }
+    .nav-bar {
+      /* font-size: 36px; */
+      text-align: center;
+      font-size: 10px;
+    }
+    .user1{
+        background-color: yellow;
+        height: 3vh;
+    }
+    .web{
+        background-color: black;
+        height: 10vh;
+        margin-top: 0%;
+    }
+    nav ul li{
+        list-style-type: none;
+        display: inline-block;
+        padding: 10px 10px;
+        color: white;
+        /* margin-top: 5px; */
+    }
+   
+    .h2{
+    color: yellow;
+    }
+    .h1{
+    margin-left: 30px;
+    color: white;
+    margin-top: -3%;
+    font-size: 350%;
+    }
+    .nbar{
+        margin-top: 30px;
+        margin-left: 36px;
+        font-size: 150%;
+    }
+    #category{
+        height: 45px;
+        width: 160px;
+        font-weight: bolder;
+        border-radius: 5px;
+    }
+    #search{
+        height: 45px;
+        width: 340px;
+        background-color: whitesmoke;
+        border-radius: 5px;
+    }
+    .gad{
+        margin-left: 2%;
+        margin-top: 3%;
+        width: 100%;
+       
+    }
+    .our{
+        font-weight: bold;
+        font-size: 387%;
+        margin-top: 2%;
+        margin-left: 15%;
+    }
+    .else{
+        margin-left: 10%;
+        font-size: 170%;
+    }
+    .btn2{
+        background-color: yellow;
+        color: black;
+        border: solid;
+        margin-left: 15%;
+        margin-top: 3%;
+    }
+    .ex{
+        border: solid white;
+        margin-left: 21%;
+        width: 8%;
+       margin-top: 2%;
+    }
+    .accessories{
+        /* align-items: center; */
+        margin-top: 12%;
+        margin-left: 8%;
+        font-size: 40%;
+        display: column;
+    }
+    .deals{
+        font-size: 20px;
+        display: flex;
+        margin-left: 2%;
+        margin-top: 7%;
+    }
+    .offer{
+        font-size: 20px;
+        margin-left: 0%;
+        margin-bottom: 3%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .p{
+        margin-left: 0%;
+        margin-top: 1.2%;
+    }
+    #button2{
+        height: 30px;
+        background-color: black;
+        color: yellow;
+    }
+    .pn{
+        color: black;
+    }
+    .images{
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+       margin: 5%;
+       text-align: center;
+       border-radius: 5px;
+       margin-bottom: 1%;
+       gap: 4%;
+      
+      
+    }
+    .images2{
+        display: flex;
+        justify-content: space-between;
+        margin: 5%;
+        gap: 4%;
+       
+    
+    }
+    .drone{
+        border: solid whitesmoke;
+        height: 40vh;
+        width: 25%;
+        text-align: center;
+    
+    }
+    .pro{
+        border: solid whitesmoke;
+        height: 40vh;
+        width: 25%;
+        text-align: center;
+    
+    }
+    .game{
+        border: solid whitesmoke;
+        height: 40vh;
+        width: 25%;
+        text-align: center;
+    }
+    .logitech{
+        border: solid whitesmoke;
+        height: 40vh;
+        width: 25%;
+        text-align: center;
+        
+    }
+    .products1{
+        display: table-column;
+        gap: 4%;
+        margin-left: 10%;
+        text-align: center;
+        margin-bottom: 25%;
+    }
+    .p3{
+        margin: 9%;
+        margin-left: 14%;
+        background-color: rgb(196, 176, 214);
+        height: 50vh;
+        padding-top: 7%;
+        font-size: 102%;
+        
+    }
+    .paj{
+        margin-top: 9%;
+        margin-left: 5%;
+        font-size: 178%;
+    }
+    .para{
+       
+        background-color: lightblue;
+        width: 90%;
+        height: 70vh;
+        margin-top: 5%;
+        margin-left: 6%;
+    }
+    .test{
+    
+        margin-top: 3%;
+        margin-left: -55%;
+    }
+    .lon{
+        font-weight: bold;
+        margin-left: 44%;
+        font-size: 795%;
+        margin-top: -5%;
+    }
+    .amet{
+        margin-left: 40%;
+        font-size: 192%;
+    }
+    .cod{
+        margin-left: 15%;
+        margin-top: 7%;
+        font-size: 145%;
+    }
+    .opk{
+        margin-left: 16%;
+        margin-top: 9%;
+    }
+    .lko{
+        font-size: 138%;
+    }
+    .lp
+    {
+        font-weight: bolder;
+    }
+    .name3{
+        margin-left: 11%;
+        font-size: 185%;
+    }
+    .fot{
+        display: inline-flex;
+        justify-content: space-between;
+        margin-left: 6%;
+        margin-top: 6%;
+        margin: 3%;
+        font-size: 195%;
+        
+    }
+    .pa{
+        font-weight: bolder;
+    }
+    .email{
+        background-color: yellow;
+        width: 27%;
+    }
+    
+    .footer{
+        display: flex;
+        margin-top: 3%;
+        justify-content: space-between;
+        margin-left: 3%;
+        background-color: black;
+        color: white;
+        align-self: self-start;
+        font-size: 176%;
+    }
+    .gadk{
+        color: yellow;
+    }
+    .pr{
+        font-weight: bold;
+        font-size: 145%;
+    }
+    .imgs{
+        margin-left: 13%;
+        margin-top: 18%;
+        width: 280px;
+       
+    }
+    .ye{
+        background-color: yellow;
+        height: 10%;
+        width: 53%;
+        border: solid;
+        text-align: center;
+        margin-left: 15%;
+    }
+    .items{
+        border: solid whitesmoke;
+        height: 35vh;
+        width: 25%;
+    }
+    .spe{
+        border: solid whitesmoke;
+        height: 40vh;
+        width: 25%;
+    }
+    .cc{
+        border: solid whitesmoke;
+        height: 40vh;
+        width: 25%;
+    
+    }
+    .air{
+        border: solid whitesmoke;
+        height: 40vh;
+        width: 25%;
+    }
+    .any{
+        border-radius: 5px;
+        margin-bottom: 1%;
+        margin: 5%;
+        margin-left: 13%;
+        text-align: center;
+        width: 50%;
+        font-size: 30%;
+    
+    
+    }
+    #products{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    
+    }
+  }
